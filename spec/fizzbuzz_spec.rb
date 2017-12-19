@@ -17,6 +17,4 @@ describe "fizzbuzz" do
     it "returns 'fizzbuzz' when passed 15" do
     expect(fizzbuzz(15 * rand(1..3)).to eq "fizzbuzz"
   end
-
-
 end
