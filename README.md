@@ -1,3 +1,8 @@
 # Pair Programming: Fizzbuzz task #
 
-This is a makes TDD pair programming task, to build a fizzbuzz programme using TDD (rspec).
+This is a Test Driven Development, pair programming challenge. Aim of this task was to build a programme called "fizzbuzz" using TDD in rspec.
+
+The program prints out "fizz" if divisible by 3 and "buzz" if divisible by 5. On top of that it would
+have to printout "fizzbuzz" if divisible by both numbers.
+
+This was a great way to practise work in pairs and ease our way into a TDD mindset.
